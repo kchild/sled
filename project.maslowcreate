@@ -1,0 +1,25 @@
+{
+    "atomType": "Molecule",
+    "name": "sled",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 462385,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9882283696291937,
+            "y": 0.5,
+            "uniqueID": 352592,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1,
+    "simplify": false,
+    "unitsIndex": 0,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
+}
